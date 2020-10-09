@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/APPFloder/static/css/main.5f361e03.chunk.css",
-    "main.js": "/APPFloder/static/js/main.4b4a5010.chunk.js",
-    "main.js.map": "/APPFloder/static/js/main.4b4a5010.chunk.js.map",
+    "main.js": "/APPFloder/static/js/main.c5f1c7a8.chunk.js",
+    "main.js.map": "/APPFloder/static/js/main.c5f1c7a8.chunk.js.map",
     "runtime-main.js": "/APPFloder/static/js/runtime-main.4c867db6.js",
     "runtime-main.js.map": "/APPFloder/static/js/runtime-main.4c867db6.js.map",
     "static/js/2.95ac39d5.chunk.js": "/APPFloder/static/js/2.95ac39d5.chunk.js",
     "static/js/2.95ac39d5.chunk.js.map": "/APPFloder/static/js/2.95ac39d5.chunk.js.map",
     "index.html": "/APPFloder/index.html",
-    "precache-manifest.fa6964a8c74edcfbc96cb7a71e594770.js": "/APPFloder/precache-manifest.fa6964a8c74edcfbc96cb7a71e594770.js",
+    "precache-manifest.875bd9ec6e5971e7675a6c2e71474ddc.js": "/APPFloder/precache-manifest.875bd9ec6e5971e7675a6c2e71474ddc.js",
     "service-worker.js": "/APPFloder/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/APPFloder/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.95ac39d5.chunk.js.LICENSE.txt": "/APPFloder/static/js/2.95ac39d5.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.4c867db6.js",
     "static/js/2.95ac39d5.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.4b4a5010.chunk.js"
+    "static/js/main.c5f1c7a8.chunk.js"
   ]
 }
